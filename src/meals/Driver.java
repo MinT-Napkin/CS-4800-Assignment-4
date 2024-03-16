@@ -3,7 +3,7 @@ package meals;
 import java.util.ArrayList;
 import java.util.List;
 
-public class Main {
+public class Driver {
     public static void main(String[] args) {
         List<Customer> customers = new ArrayList<>();
         customers.add(new Customer("Customer1", DietPlan.NO_RESTRICTION));
