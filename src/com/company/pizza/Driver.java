@@ -97,7 +97,6 @@ public class Driver {
                 .addMushrooms()
                 .build();
 
-        // Eat Little Caesars and Dominos pizzas
         pizza4.eat();
         pizza5.eat();
         pizza6.eat();
